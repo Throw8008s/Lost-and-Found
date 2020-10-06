@@ -6,7 +6,7 @@ Generally, this system is best suited for institutional and even nation wide use
 
 Problem Statement:
 The rate of reported stolen or lost national identity cards and passports is quite high.
-The time required for the appplication process for a renewal process of both the national identity card and passport are quite long and tidious, whereby an abstract is needed and also an affidavit which seems to be a long process.
+The time required for the application process for a renewal process of both the national identity card and passport are quite long and tedious, whereby an abstract is needed and also an affidavit which seems to be a long process.
 
 What you need:
 Netbeans IDE.
